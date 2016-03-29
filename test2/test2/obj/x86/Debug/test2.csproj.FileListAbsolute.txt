@@ -1,0 +1,8 @@
+C:\Users\Csaba\Documents\Projects\test2\test2\bin\Debug\test2.exe
+C:\Users\Csaba\Documents\Projects\test2\test2\bin\Debug\test2.pdb
+C:\Users\Csaba\Documents\Projects\test2\test2\obj\x86\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\Csaba\Documents\Projects\test2\test2\obj\x86\Debug\test2.exe
+C:\Users\Csaba\Documents\Projects\test2\test2\obj\x86\Debug\test2.pdb
+C:\Users\Csaba\Documents\Projects\test2\test2\bin\Debug\SlimDX.dll
+c:\Users\Csaba\Documents\Projects\test2\test2\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Csaba\Documents\Projects\test2\test2\bin\Debug\Newtonsoft.Json.xml
